@@ -1,5 +1,5 @@
-from tateti import *
-from inter_grafica import *
+from src.tateti import *
+from graphics.inter_grafica import *
 
 def main():
     """..."""
