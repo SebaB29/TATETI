@@ -16,5 +16,5 @@ GRAPHICS:
 # Gráficos
 La interfaz gráfica se creo utilizando la librería extraída [Gamelib](https://github.com/dessaya/python-gamelib)
 
-![TATETI](https://github.com/SebaB29/TATETI/blob/main/img/tateti.jpg)
-![Ganador](https://github.com/SebaB29/TATETI/blob/main/img/ganador.jpg)
+![TATETI](img/tateti.jpg)
+![Ganador](img/ganador.jpg)
